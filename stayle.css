@@ -297,10 +297,10 @@ footer{
         /* margin-top: 230px;  */
         height: 100%;
         margin-top: 40px;
-        width: 99%;
+        width: 100%;
     }
     .minebox1{
-        width: 410px;
+        width: 400px;
         height: 60%;
         margin-bottom: 10px;
     }
@@ -329,7 +329,7 @@ footer{
         height: 50%;
     }
     footer{
-        margin-top: 130px;
+        margin-top: 200px;
         height: auto;
     }
     .smalbox{
